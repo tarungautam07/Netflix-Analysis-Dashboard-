@@ -7,8 +7,8 @@ This project explores Netflix's content data using Power BI, focusing on insight
 - Visualized key KPIs: Total Titles, Genre Distribution, Top Countries, and Content Trends.
 - Implemented data cleaning and transformation in Power BI before visualization.
 
-## 📊 Dashboard
-🎯 [View My Power BI Dashboard](https://github.com/tarungautam07/Netflix-Analysis-Dashboard-/blob/main/IMG_6324.jpeg)
+## 📊 Dashboard Preview
+🎯 [Netflix Dashboard Screenshot](https://github.com/tarungautam07/Netflix-Analysis-Dashboard-/blob/main/IMG_6324.jpeg)
 
 ## 📂 Dataset
 The dataset is taken from Kaggle:  
