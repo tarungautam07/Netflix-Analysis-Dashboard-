@@ -16,9 +16,8 @@ The dataset is taken from Kaggle:
 
 ## 🧰 Tools & Technologies
 - Power BI
-- Power BI (for additional visuals)
 - Microsoft Excel / CSV
-- Data Cleaning in Python 
+- Data Cleaning in Power Query
 
 ## 📄 Project Report
 📘 [Download Detailed Report ()
