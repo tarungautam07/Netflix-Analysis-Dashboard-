@@ -8,7 +8,7 @@ This project explores Netflix's content data using Power BI, focusing on insight
 - Implemented data cleaning and transformation in Power BI before visualization.
 
 ## 📊 Live Dashboard
-🎯 [View My Tableau Dashboard]()
+🎯 [View My Power BI Dashboard]()
 
 ## 📂 Dataset
 The dataset is taken from Kaggle:  
