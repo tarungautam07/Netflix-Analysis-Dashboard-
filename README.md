@@ -10,7 +10,6 @@ This project explores Netflix's content data using Tableau and Power BI, focusin
 ## 📊 Live Dashboard
 🎯 [View My Tableau Dashboard](https://public.tableau.com/app/profile/ram.chander/viz/NetflixAnalysisDashboard_17490506510230/Dashboard1?publish=yes)
 
-*(Replace with your actual Tableau Public link)*
 
 ## 📂 Dataset
 The dataset is taken from Kaggle:  
