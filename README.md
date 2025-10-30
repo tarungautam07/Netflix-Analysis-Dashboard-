@@ -15,7 +15,7 @@ The dataset is taken from Kaggle:
 [Netflix Movies and TV Shows Dataset]
 
 ## 🧰 Tools & Technologies
-- Tableau Public
+- Power BI
 - Power BI (for additional visuals)
 - Microsoft Excel / CSV
 - Data Cleaning in Python 
